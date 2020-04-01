@@ -1,0 +1,13 @@
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\Win8\Desktop\tasarımprojesi\mark_1\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
